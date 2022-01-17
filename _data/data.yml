@@ -47,9 +47,9 @@ sidebar:
 career-profile:
     title: HR Business Partner
     summary: |
-      Summarise your career here My carreer has been entirely focused on Human Resources Management. I was introduced to this area of expertise at a small company
+      My carreer has been entirely focused on Human Resources Management. I was introduced to this area of expertise at a small company
       working with professional training and consultancy. This gave me the opportunity to learn the fundamentals of HR and Organizations as a whole. Then, i transitioned 
-      to a big company, with roughl 1500 employees, where I had the opportunity to implement and scale up all the knowledge i acquired in previous experiences.
+      to a big company, with roughly 1500 employees, where I had the opportunity to implement and scale up all the knowledge I acquired in previous experiences.
 education:
     - degree: MSc in Organizational Psychology and Human Resources
       university: University of Minho
@@ -64,7 +64,7 @@ experiences:
       time: 2021 - Present
       company: TMG Group, Guimarães
       details: |
-        Describe your role here I work as a HR Business Partner at Grupo TMG. We have a centralized Human Resources Department, which is at the center of the group. 
+        I work as a HR Business Partner at Grupo TMG. We have a centralized Human Resources Department, which is at the center of the group. 
         Then we have extensions that work as bridges for each of the group's companies. I am currently responsible for one of the group's companies, with around 250 employees.
           - Recruitment and Selection; Onboarding, Integration, Offboarding. Needs Assessment; Training Management
           - Description of Functions; Polyvalence; Performance and Goals; Organizational Climate Assessment
@@ -73,7 +73,7 @@ experiences:
       time: 2018 - 2020
       company: Forconsulting, Barcelos
       details: |
-        Describe your role here At Forconsulting I had the opportunity to work with the main responsibilities of an HR Specialist, and I met many
+        At Forconsulting I had the opportunity to work with the main responsibilities of an HR Specialist, and I met many
         companies we work for.
           - Needs Assessment; Training Management; Recruitment and Selection
           - Development and Implementtion of Training Solutions; Business Consulting; Workforce Planning
@@ -87,45 +87,83 @@ projects:
     assignments:
       - title: How to Manage a Remote Team
         link: "#hook"
-        tagline: ""
+        tagline: "GitLab"
 
       - title: Tech Recruitment Certified Professional
         link: "#"
-        tagline: ""
+        tagline: "DevSkiller"
 
       - title: SFC | Scrum Fundamentals Certified
         link: "#"
-        tagline: ""
+        tagline: "ScrumStudy"
 
       - title: Six Sigma - Yellow Belt Certification
         link: "#"
-        tagline: ""
+        tagline: "6SigmaStudy"
 
+      - title: Six Sigma - White Belt Certification
+        link: "#"
+        tagline: "6SigmaStudy"
+        
       - title: Advanced English
         link: "#"
-        tagline: ""
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
+        tagline: "Babelium"
+        
+      - title: Certificate of Pedagogical Skills (CCP)
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        tagline: "IEFP"
+        
+      - title: Distance Learning Trainers (E-Trainers)
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+        tagline: "Forconsulting"
+        
+      - title: B-Side | Soft Skills Academy
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "TecMinho - University of Minho"
+        
+      - title: Coaching
+        link: "#"
+        tagline: "Divulgación Dinámica"
+        
+      - title: Coaching
+        link: "#"
+        tagline: "Divulgación Dinámica"
+
+      - title: Human Capital Strategy
+        link: "#"
+        tagline: "Philanthropy University"
+        
+      - title: Human Resources
+        link: "#"
+        tagline: "Alison" 
+        
+      - title: Key Skills Assessment Unit - Working With Others
+        link: "#"
+        tagline: "The Open University"   
+        
+      - title: Management Leadership
+        link: "#"
+        tagline: "Saylor Academy"    
+        
+      - title: First Aid
+        link: "#"
+        tagline: "CECOA"     
+        
+      - title: Foundations of Intercultural Learning and Global Competence
+        link: "#"
+        tagline: "AFS Intercultura"     
+        
+      - title: Fundamentals of Digital Marketing
+        link: "#"
+        tagline: "Google Digital Garage"  
+        
+      - title: SAP Data Intelligence of Entreprise AI
+        link: "#"
+        tagline: "SAP"       
+        
+      - title: Digital Skills - Artificial Intelligence
+        link: "#"
+        tagline: "Accenture"           
 
 skills:
     title: Skills &amp; Proficiency
